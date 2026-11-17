@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6f7158"/>
+      <stop offset="55%" stop-color="#818263"/>
+      <stop offset="100%" stop-color="#ddbaae"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <circle cx="320.0" cy="105.0" r="75.6" fill="#ddbaae" opacity="0.25"/>
+  <circle cx="1248.0" cy="294.0" r="92.4" fill="#6f7158" opacity="0.2"/>
+  <text x="50%" y="48%" text-anchor="middle" fill="#faf7f2" font-family="Georgia, serif" font-size="57" letter-spacing="4">DIVIDER</text>
+  <text x="50%" y="56%" text-anchor="middle" fill="#faf7f2" font-family="Helvetica, Arial, sans-serif" font-size="29" opacity="0.85">Replace images/divider.jpg</text>
+</svg>

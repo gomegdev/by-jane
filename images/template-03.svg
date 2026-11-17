@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="1060" viewBox="0 0 800 1060">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#9a9b72"/>
+      <stop offset="55%" stop-color="#c2c395"/>
+      <stop offset="100%" stop-color="#dcd4c1"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#g)"/>
+  <circle cx="160.0" cy="265.0" r="144.0" fill="#dcd4c1" opacity="0.25"/>
+  <circle cx="624.0" cy="742.0" r="176.0" fill="#9a9b72" opacity="0.2"/>
+  <text x="50%" y="48%" text-anchor="middle" fill="#faf7f2" font-family="Georgia, serif" font-size="28" letter-spacing="4">TEMPLATE 03</text>
+  <text x="50%" y="56%" text-anchor="middle" fill="#faf7f2" font-family="Helvetica, Arial, sans-serif" font-size="14" opacity="0.85">Replace images/template-03.jpg</text>
+</svg>
